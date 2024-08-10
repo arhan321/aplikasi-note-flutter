@@ -1,5 +1,5 @@
 # aplikasi flutter sederhana menggunakan pacakge mysql1
-membuat aplikasi berkonsep `note` sederhana, ada `login` serta `register` nya, dan ini adalah penjelasan lebih lanjut :
+membuat aplikasi berkonsep `note` sederhana, ada `login` serta `register` nya, dan ini adalah penjelasan lebih lanjut:
 - terdapat fitur `login` dan `register`
 - terdapat fitur `note` sederhana
 - ada fitur untuk `logout`
